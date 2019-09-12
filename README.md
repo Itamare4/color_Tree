@@ -20,6 +20,13 @@ The wireless wand powered by 16850 battery, STM32F103, and RGB sensor(APDS-9960)
  * 5A step-down 12V to 5V (use lead-acid battery to power tree)
  * RGB sensor APDS-9960
  
+ 
+ ### Rendering ###
+ <p align="center">
+ <img src="https://github.com/Itamare4/color_Tree/blob/master/Render/Tree.JPG?raw=true" height="200" width=auto>
+ <img src="https://github.com/Itamare4/color_Tree/blob/master/Render/Tree_RC.JPG?raw=true" height="200" width=auto>
+</p>
+ 
 ### About ###
 Itamar Eliakim<br>
 M.Sc Robotics Engineer, Tel Aviv, Israel<br>
