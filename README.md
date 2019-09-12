@@ -2,7 +2,8 @@
 
 ### Brief ###
 Tree of colors, one of our wedding exhibits from 5/9/19.  
-Insipred by an exhibit from MidBurn(israeli burning man), 72 WS2812B(RGB color) LED are on the tree, the wireless wand powered by a modified powerbank, exupied with STM32F103, and RGB sensor, the user presses the led button, the STM32 samples the color, when the user touches one of the LED hearts/balls it gets colored with the sampled color.   
+Insipred by an exhibit from MidBurn(israeli burning man), 72 WS2812B(RGB color) LED are on the tree.  
+The wireless wand powered by 16850 battery, STM32F103, and RGB sensor(APDS-9960), the user presses the led button, the STM32 samples the color, when the user touches one of the LED hearts/balls it gets colored with the sampled color.   
 
 <p align="center">
 <img src="http://tselaw.co.il/tselaw.co.il/Itamar/images/color_tree/IMG-20190909-WA0090.jpg" height="600" width=auto>
