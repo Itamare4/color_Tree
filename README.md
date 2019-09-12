@@ -1,4 +1,4 @@
-# color_Tree
+# Tree of Colors
 
 ### Brief ###
 Tree of colors, one of our wedding exhibits from 5/9/19.  
