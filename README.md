@@ -6,7 +6,7 @@ Insipred by an exhibit from MidBurn(israeli burning man), 72 WS2812B(RGB color) 
 The wireless wand powered by 16850 battery, STM32F103, and RGB sensor(APDS-9960), the user presses the led button, the STM32 samples the color, when the user touches one of the LED hearts/balls it gets colored with the sampled color.   
 
 <p align="center">
-<img src="http://tselaw.co.il/tselaw.co.il/Itamar/images/color_tree/IMG-20190909-WA0090.jpg" height="600" width=auto>
+<img src="https://raw.githubusercontent.com/Itamare4/markdown-graphics/master/Tree-of-Colors.jpg" height="600" width=auto>
 </p>
 
 
